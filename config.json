@@ -1,0 +1,5 @@
+{
+  "dev": {
+    "EXPRESS_SESSION_SECRET": "1234"
+  }
+}
